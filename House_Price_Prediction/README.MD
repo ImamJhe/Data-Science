@@ -17,18 +17,32 @@ conda install pandas <br>
 conda install seaborn <br>
 
 
-### This dataset contains selling bakery
+### This dataset contains selling prices for homes for King County, which includes Seattle. 
 
-This data from 2021-01-02 to 2022-09-30 for every time, day, and month  <br>
+This includes homes sold between May 1900 and May 2015. This is a good data set for evaluating simple regression models. <br>
 
-This dataset have 6 attributes, including the following: <br>
+This dataset has 21 attributes, including the following: <br>
 
 <pre>
-date          : date order 
-time          : time order
-ticket number : identifier for every single transaction
-article       : name of the product sold (in French)
-quantity      : quantity sold
-unit_price    : price per product
-Objective     : Forecast the sales in order to ease the production planning
+id            : A notation for a house <br>
+date          : Date house was sold <br>
+price         : Price is prediction target <br>
+bedrooms      : Number of bedrooms <br>
+bathrooms     : Number of bathrooms <br>
+sqft_living   : Square footage of the home <br>
+sqft_lot      : Square footage of the lot <br>
+floors        : Total floors (levels) in house <br>
+waterfront    : House which has a view to a waterfront <br>
+view          : Has been viewed <br>
+condition     : How good the condition is overall <br>
+grade         : overall grade given to the housing unit, based on King County grading system <br>
+sqft_above    : Square footage of house apart from basement <br>
+sqft_basement : Square footage of the basement <br>
+yr_built      : Built Year <br>
+yr_renovated  : Year when house was renovated <br>
+zipcode       : Zip code <br>
+lat           : Latitude coordinate <br>
+long          : Longitude coordinate <br>
+sqft_living15 : Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area <br>
+sqft_lot15    : LotSize area in 2015(implies-- some renovations) <br>
 <pre>
