@@ -55,7 +55,7 @@ Longtitude    : Self explanitory
 
 Conclusion :
 
-|    Model Machine Learning     |      MAE	 |      RMSE      | R2-score   |
+|    Model Machine Learning     |      MAE	 |      RMSE      | R2-score    |
 | ----------------------------- | -------------- | -------------- | --------- |
 | XGBRegressor                  | 157005.837902  | 236259.353358  | 0.854719  |
 | RandomForestClassifier        | 219308.285714  | 354336.009620  | 0.673216  |
