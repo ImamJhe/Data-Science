@@ -54,6 +54,12 @@ Longtitude    : Self explanitory
 
 Conclusion :
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Model ML       | MAE	          | RMSE           | R2-score       |
 | -------------- | -------------- | -------------- | -------------- |
 | XGBRegressor   | 157005.837902  | 236259.353358  | 0.854719       |
