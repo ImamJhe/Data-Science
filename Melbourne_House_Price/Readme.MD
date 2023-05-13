@@ -52,6 +52,7 @@ Lattitude     : Self explanitory
 Longtitude    : Self explanitory
 <pre>
 
+<pre>
 Conclusion :
 
 |    Model Machine Learning     |      MAE	     |      RMSE      | R2-score  |
@@ -61,3 +62,5 @@ Conclusion :
 | Linear Regression             | 276635.670855  | 390453.838965  | 0.603202  |
 | Ridge                         | 278033.214349	 | 390930.162533  | 0.602234  | 
 | Linear Regression Normalized  | 278037.143548  | 390933.299419  | 0.602227  |
+
+<pre>
